@@ -1,0 +1,8 @@
+{
+  "name": "صِلة - SILA",
+  "short_name": "SILA",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6c5ce7",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/5973/5973920.png", "sizes": "512x512", "type": "image/png" }]
+}
